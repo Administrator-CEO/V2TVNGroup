@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>V2T VN Group</title>
-  </head>
-  <body>
+<body>
     <h1>
       <img
         src="https://i.pinimg.com/736x/89/76/68/897668015da396d4e09d8349b1b75d89.jpg"
