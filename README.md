@@ -89,7 +89,6 @@
             width="50"
           />Otis Storyteller VN
         </h2>
-        <br />
         <li>
           Youtube:
           <a href="http://www.youtube.com/@OtisStorytellerVN" target="_blank"
@@ -110,7 +109,6 @@
             >https://www.tiktok.com/@otisstorytellervn</a
           >
         </li>
-        <br />
         <hr />
       </div>
       <div class="text-section">
@@ -120,7 +118,6 @@
             width="50"
           />Andy Music Offiial
         </h2>
-        <br />
         <li>
           Youtobe:
           <a href="https://www.youtube.com/@AndyMusicOfficiall" target="_blank"
@@ -141,7 +138,6 @@
             >https://www.tiktok.com/@andymusicofficial</a
           >
         </li>
-        <br />
         <hr />
       </div>
       <div class="text-section">
@@ -171,7 +167,6 @@
             >https://www.tiktok.com/@kotgtonygamer</a
           >
         </li>
-        <br />
         <hr />
       </div>
       <div class="text-section">
@@ -187,7 +182,6 @@
           >Vào Đây</a
         >
         <a>!</a> <br />
-        <br />
         <hr />
       </div>
       <div class="text-section">
