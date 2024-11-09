@@ -13,7 +13,7 @@
       />Otis Storyteller VN
     </h2>
     <video width="600" controls>
-        <source src="https://youtu.be/R9NWDd9i1OY" type="video/mp4">
+        <source src="https://youtu.be/R9NWDd9i1OY" type="video.mp4">
         Trình duyệt của bạn không hỗ trợ thẻ video.
     </video>
     <li>
