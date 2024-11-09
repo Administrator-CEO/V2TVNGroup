@@ -12,7 +12,7 @@
         width="50"
       />Otis Storyteller VN
     </h2>
-    <video width="600" controls>
+    <video width="600" controls autoplay muted loop>
         <source src="https://youtu.be/R9NWDd9i1OY" type="video.mp4">
         Trình duyệt của bạn không hỗ trợ thẻ video.
     </video>
