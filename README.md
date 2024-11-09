@@ -151,7 +151,6 @@
             width="50"
           />KOTG.Andy Gamer
         </h2>
-        <br />
         <li>
           Youtube:
           <a href="https://www.youtube.com/@KOTGTonyGamer" target="_blank"
@@ -177,7 +176,6 @@
       </div>
       <div class="text-section">
         <h2>Donate: MoMo - 0843840438</h2>
-        <br />
         <img
           src="https://i.pinimg.com/474x/d7/21/e4/d721e4e7121d86a03a5f8c57d0cc0e0e.jpg"
           alt=""
