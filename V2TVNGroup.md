@@ -106,9 +106,7 @@
     <hr />
     <br />
     <a
-      >Hotline: <a href="tel:0329022431" targer="_blank">0329022431</a>,
-      <a href="0843840438" target="_blank">0843840438</a></a
-    ><br />
+      >Hotline: <a href="tel:0329022431" targer="_blank">0329022431</a></a><br />
     <a
       >Email:
       <a
