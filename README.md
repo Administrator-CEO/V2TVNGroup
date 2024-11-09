@@ -113,24 +113,18 @@
     <hr />
     <br />
     <a
-      >Hotline: <a href="tel:0329022431" targer="_blank">0329022431</a>,
-      <a href="0843840438" target="_blank">0843840438</a></a
+      >Hotline: <a href="0843840438" target="_blank">0843840438</a></a
     ><br />
     <a
       >Email:
-      <a
-        href="mailto:chiefexecutiveofficer.v2t.vn@gmail.com?subject=Gửi Admin!"
-        target="_blank"
-        >chiefexecutiveofficer.v2t.vn@gmail.com</a
-      >
+      <a href="mailto:chiefexecutiveofficer.v2t.vn@gmail.com?subject=Gửi Admin!"
+        target="_blank">chiefexecutiveofficer.v2t.vn@gmail.com</a>
     </a>
     <br />
-    <a
-      >Địa chỉ:<a
+    <a>Địa chỉ:<a
         href="https://maps.app.goo.gl/CuVh62Yj5EpAXLAw9"
         target="_blank"
         >2252/22/12. Tổ 2, Kp1, Quận 12, Hồ Chí Minh, Việt Nam</a
-      ></a
-    >
+      ></a>
   </body>
 </html>
