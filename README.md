@@ -64,21 +64,9 @@
     </div>
     <div class="slideshow-container">
       <img
-        src="https://via.placeholder.com/600x400/FF5733/FFFFFF?text=Hinh+1"
-        alt="Hình 1"
+        src=""
+        alt=""
         class="active"
-      />
-      <img
-        src="https://via.placeholder.com/600x400/33FF57/FFFFFF?text=Hinh+2"
-        alt="Hình 2"
-      />
-      <img
-        src="https://via.placeholder.com/600x400/3357FF/FFFFFF?text=Hinh+3"
-        alt="Hình 3"
-      />
-      <img
-        src="https://via.placeholder.com/600x400/FF33A1/FFFFFF?text=Hinh+4"
-        alt="Hình 4"
       />
     </div>
     <div>
